@@ -1,8 +1,8 @@
 # ******************************************************************************   
-#  Bingo
+#  Bingo 3X3
 #
 #  @author: Elisha Lai
-#  @desciption: Program that allows a player to play Bingo
+#  @desciption: Program that allows a player to play Bingo 3X3
 #  @version: 1.3 12/03/2014
 # ******************************************************************************
 
