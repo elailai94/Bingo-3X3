@@ -6,6 +6,8 @@
 #  @version: 1.3 12/03/2014
 # ******************************************************************************
 
+import sys
+
 # negate_mini_bingo_card: (listof Int) (listof Int) -> (listof Int)
 # Conditions:
 #     PRE: lst1 and lst2 must be non-empty lists.
@@ -113,3 +115,9 @@ def mini_bingo(mini_bingo_card, numbers_called):
         return True
     else:
         return False
+
+if __name__ == "__main__":
+    import sys
+    bingo_card = sys.argv[1].split()
+    numbers_drawn = sys.argv[2].split()
+    mini_bingo(bingo_card, numbers_drawn)
