@@ -9,3 +9,4 @@ python game.py [bingo_card] [numbers_drawn]
 > Note: 
 
 ### License
+Bingo 3X3 is licensed under the [MIT license.](https://github.com/elailai94/Bingo-3X3/blob/master/LICENSE)
