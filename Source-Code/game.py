@@ -118,6 +118,6 @@ def mini_bingo(mini_bingo_card, numbers_called):
 
 if __name__ == "__main__":
     import sys
-    bingo_card = sys.argv[1].split()
-    numbers_drawn = sys.argv[2].split()
+    bingo_card = map(int, sys.argv[1].split())
+    numbers_drawn = map(int, sys.argv[2].split())
     mini_bingo(bingo_card, numbers_drawn)
