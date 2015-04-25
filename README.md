@@ -4,6 +4,7 @@ Bingo 3X3 is a simple game of chance, which is inspired by [Bingo](http://en.wik
 
 ### Screenshots
 #### Sample Game Interaction
+![Bingo-3X3_Screenshot](https://cloud.githubusercontent.com/assets/7763904/7335138/75a0938e-eb78-11e4-8604-2a2c0abf6342.png)
 
 ### Execution
 ```Bash
